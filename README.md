@@ -132,7 +132,7 @@ Beholders(nível 1) - Invasão com 5
 Criaturas burras 
 xp = 5
 dano = 2
-Queimados(Nível 2) - Invasão com 3
+Queimados Burned Ones (Nível 2) - Invasão com 3
 Criatura rápida
 xp = 10
 dano = 1 
